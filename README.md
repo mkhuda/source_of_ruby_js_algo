@@ -2,7 +2,7 @@
 
 Some samples from answers
 
-## Ruby
+## Ruby [Link](https://github.com/mkhuda/source_of_ruby_js_algo/tree/master/ruby)
 
 - Pointer Linked List
 - Palindrome
@@ -10,7 +10,7 @@ Some samples from answers
 - Hash Group By Owners
 - Simple Where Question
 
-## Javascript
+## Javascript [Link](https://github.com/mkhuda/source_of_ruby_js_algo/tree/master/javascript)
 
 - Ensuring cookies to be secure
 - Palindrome string
