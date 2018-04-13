@@ -1,0 +1,14 @@
+{
+  "name": "testjs",
+  "version": "1.0.0",
+  "description": "test",
+  "scripts": {
+    "removeOdd": "node -e 'require(\"./removeOdd\").removeOdd()'",
+    "removeString": "node -e 'require(\"./removeString\").removeString()'",
+    "palindrome": "node -e 'require(\"./palindrome\").palindrome()'",
+    "ulangKata": "node -e 'require(\"./ulangKata\").ulang()'",
+    "promise": "node -e 'require(\"./promise\").promise()'"
+  },
+  "author": "mkhuda",
+  "license": "ISC"
+}

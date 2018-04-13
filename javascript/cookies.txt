@@ -1,0 +1,4 @@
+cookies
+- Ensuring the cookie is sent only over HTTP(S), disabling X-Powered-By header, and sets X-XSS-Protection header to enable. Or by signing and verifying cookies through a rotating credential system.
+- To set manually on header, we can use app.disable('x-powered-by') to set X-Powered-By header.
+- Packages can help on this situation is Helmet and KeyGrip.
